@@ -1,1 +1,2 @@
 https://goerli.etherscan.io/address/0x366ed4e4445d02b4a44c5da02074efc0ab6d1c61#tokentxns
+firstly i wrote ERC20 token contract in remixe ide then i install hardhat and then i wrote in terminal npx hardhat then created my some file and  then i creeated a solidity file then i wrote the solidity code then i created a test folder and created a file inside it then i used chai library and then testing my solidity code
