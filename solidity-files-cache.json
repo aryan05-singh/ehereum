@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\91778\\Desktop\\aryan\\contracts\\ton.sol": {
+      "lastModificationDate": 1695364701443,
+      "contentHash": "1e2386b327b7331b68d48048f39e3e6f",
+      "sourceName": "contracts/ton.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "CTToken",
+        "ERC20"
+      ]
+    }
+  }
+}
